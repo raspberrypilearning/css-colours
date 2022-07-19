@@ -1,59 +1,175 @@
-## Introduction
+## Colour names
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+You can use these colour names
 
-### What you will make
+### Red colours
+lightsalmon
+salmon
+darksalmon
+lightcoral
+indianred
+crimson
+firebrick
+red
+darkred
+![A strip of squares. On square each for the different red colours.](images/red.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+### Orange colours
+coral
+tomato
+orangered
+gold
+orange
+darkorange
+![A strip of squares. On square each for the different orange colours.](images/orange.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+### Yellow colours
+lightyellow
+lemonchiffon
+lightgoldenrodyellow
+papayawhip
+moccasin
+peachpuff
+palegoldenrod
+khaki
+darkkhaki
+yellow
+![A strip of squares. On square each for the different yellow colours.](images/yellow.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+### Green colours
+lawngreen
+chartreuse
+limegreen
+lime
+forestgreen
+green
+darkgreen
+greenyellow
+yellowgreen
+springgreen
+mediumspringgreen
+lightgreen
+palegreen
+darkseagreen
+mediumseagreen
+seagreen
+olive
+darkolivegreen
+olivedrab
+![A strip of squares. On square each for the different green colours.](images/green.png)
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+### Cyan colours
+lightcyan
+cyan
+aqua
+aquamarine
+mediumaquamarine
+paleturquoise
+turquoise
+mediumturquoise
+darkturquoise
+lightseagreen
+cadetblue
+darkcyan
+teal
+![A strip of squares. On square each for the different cyan colours.](images/cyan.png)
 
-+ A computer or tablet capable of running Scratch 3
+### Blue colours
+powderblue
+lightblue
+lightskyblue
+skyblue
+deepskyblue
+lightsteelblue
+dodgerblue
+cornflowerblue
+steelblue
+royalblue
+blue
+mediumblue
+darkblue
+navy
+midnightblue
+mediumslateblue
+slateblue
+darkslateblue
+![A strip of squares. On square each for the different blue colours.](images/blue.png)
 
-### Software
+### Purple colours
+lavender
+thistle
+plum
+violet
+orchid
+fuchsia
+magenta
+mediumorchid
+mediumpurple
+blueviolet
+darkviolet
+darkorchid
+darkmagenta
+purple
+indigo
+![A strip of squares. On square each for the different purple colours.](images/purple.png)
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+### Pink colours
+pink
+lightpink
+hotpink
+deeppink
+palevioletred
+mediumvioletred
+![A strip of squares. On square each for the different pink colours.](images/pink.png)
 
-### Downloads
+### White colours
+white
+snow
+honeydew
+mintcream
+azure
+aliceblue
+ghostwhite
+whitesmoke
+seashell
+beige
+oldlace
+floralwhite
+ivory
+antiquewhite
+linen
+lavenderblush
+mistyrose
+![A strip of squares. On square each for the different white colours.](images/white.png)
 
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+### Grey colours
+gainsboro
+lightgray
+silver
+darkgray
+gray
+dimgray
+lightslategray
+slategray
+darkslategray
+black
+![A strip of squares. On square each for the different grey colours.](images/grey.png)
 
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+### Brown colours
+cornsilk
+blanchedalmond
+bisque
+navajowhite
+wheat
+burlywood
+tan
+rosybrown
+sandybrown
+goldenrod
+peru
+chocolate
+saddlebrown
+sienna
+brown
+maroon
+![A strip of squares. On square each for the different brown colours.](images/brown.png)
