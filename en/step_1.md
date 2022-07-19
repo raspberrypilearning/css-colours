@@ -6,15 +6,15 @@ You can use these colour names
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-lightsalmon
-salmon
-darksalmon
-lightcoral
-indianred
-crimson
-firebrick
-red
-darkred
+lightsalmon<br>
+salmon<br>
+darksalmon<br>
+lightcoral<br>
+indianred<br>
+crimson<br>
+firebrick<br>
+red<br>
+darkred<br>
 </div>
 <div>
 ![A strip of squares. On square each for the different red colours.](images/red.png)
@@ -22,13 +22,20 @@ darkred
 </div>
 
 ### Orange colours
-coral
-tomato
-orangered
-gold
-orange
-darkorange
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+coral<br>
+tomato<br>
+orangered<br>
+gold<br>
+orange<br>
+darkorange<br>
+</div>
+<div>
 ![A strip of squares. On square each for the different orange colours.](images/orange.png)
+</div>
+</div>
 
 ### Yellow colours
 lightyellow
