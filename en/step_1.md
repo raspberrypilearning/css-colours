@@ -38,152 +38,215 @@ darkorange<br>
 </div>
 
 ### Yellow colours
-lightyellow
-lemonchiffon
-lightgoldenrodyellow
-papayawhip
-moccasin
-peachpuff
-palegoldenrod
-khaki
-darkkhaki
-yellow
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+lightyellow<br>
+lemonchiffon<br>
+lightgoldenrodyellow<br>
+papayawhip<br>
+moccasin<br>
+peachpuff<br>
+palegoldenrod<br>
+khaki<br>
+darkkhaki<br>
+yellow<br>
+</div>
+<div>
 ![A strip of squares. On square each for the different yellow colours.](images/yellow.png)
+</div>
+</div>
 
 ### Green colours
-lawngreen
-chartreuse
-limegreen
-lime
-forestgreen
-green
-darkgreen
-greenyellow
-yellowgreen
-springgreen
-mediumspringgreen
-lightgreen
-palegreen
-darkseagreen
-mediumseagreen
-seagreen
-olive
-darkolivegreen
-olivedrab
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+lawngreen<br>
+chartreuse<br>
+limegreen<br>
+lime<br>
+forestgreen<br>
+green<br>
+darkgreen<br>
+greenyellow<br>
+yellowgreen<br>
+springgreen<br>
+mediumspringgreen<br>
+lightgreen<br>
+palegreen<br>
+darkseagreen<br>
+mediumseagreen<br>
+seagreen<br>
+olive<br>
+darkolivegreen<br>
+olivedrab<br>
+</div>
+<div>
 ![A strip of squares. On square each for the different green colours.](images/green.png)
+</div>
+</div>
 
 ### Cyan colours
-lightcyan
-cyan
-aqua
-aquamarine
-mediumaquamarine
-paleturquoise
-turquoise
-mediumturquoise
-darkturquoise
-lightseagreen
-cadetblue
-darkcyan
-teal
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+lightcyan<br>
+cyan<br>
+aqua<br>
+aquamarine<br>
+mediumaquamarine<br>
+paleturquoise<br>
+turquoise<br>
+mediumturquoise<br>
+darkturquoise<br>
+lightseagreen<br>
+cadetblue<br>
+darkcyan<br>
+teal<br>
+</div>
+<div>
 ![A strip of squares. On square each for the different cyan colours.](images/cyan.png)
+</div>
+</div>
 
 ### Blue colours
-powderblue
-lightblue
-lightskyblue
-skyblue
-deepskyblue
-lightsteelblue
-dodgerblue
-cornflowerblue
-steelblue
-royalblue
-blue
-mediumblue
-darkblue
-navy
-midnightblue
-mediumslateblue
-slateblue
-darkslateblue
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+powderblue<br>
+lightblue<br>
+lightskyblue<br>
+skyblue<br>
+deepskyblue<br>
+lightsteelblue<br>
+dodgerblue<br>
+cornflowerblue<br>
+steelblue<br>
+royalblue<br>
+blue<br>
+mediumblue<br>
+darkblue<br>
+navy<br>
+midnightblue<br>
+mediumslateblue<br>
+slateblue<br>
+darkslateblue<br>
+</div>
+<div>
 ![A strip of squares. On square each for the different blue colours.](images/blue.png)
+</div>
+</div>
 
 ### Purple colours
-lavender
-thistle
-plum
-violet
-orchid
-fuchsia
-magenta
-mediumorchid
-mediumpurple
-blueviolet
-darkviolet
-darkorchid
-darkmagenta
-purple
-indigo
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+lavender<br>
+thistle<br>
+plum<br>
+violet<br>
+orchid<br>
+fuchsia<br>
+magenta<br>
+mediumorchid<br>
+mediumpurple<br>
+blueviolet<br>
+darkviolet<br>
+darkorchid<br>
+darkmagenta<br>
+purple<br>
+indigo<br>
+</div>
+<div>
 ![A strip of squares. On square each for the different purple colours.](images/purple.png)
+</div>
+</div>
 
 ### Pink colours
-pink
-lightpink
-hotpink
-deeppink
-palevioletred
-mediumvioletred
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+pink<br>
+lightpink<br>
+hotpink<br>
+deeppink<br>
+palevioletred<br>
+mediumvioletred<br>
+</div>
+<div>
 ![A strip of squares. On square each for the different pink colours.](images/pink.png)
+</div>
+</div>
 
 ### White colours
-white
-snow
-honeydew
-mintcream
-azure
-aliceblue
-ghostwhite
-whitesmoke
-seashell
-beige
-oldlace
-floralwhite
-ivory
-antiquewhite
-linen
-lavenderblush
-mistyrose
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+white<br>
+snow<br>
+honeydew<br>
+mintcream<br>
+azure<br>
+aliceblue<br>
+ghostwhite<br>
+whitesmoke<br>
+seashell<br>
+beige<br>
+oldlace<br>
+floralwhite<br>
+ivory<br>
+antiquewhite<br>
+linen<br>
+lavenderblush<br>
+mistyrose<br>
+</div>
+<div>
 ![A strip of squares. On square each for the different white colours.](images/white.png)
+</div>
+</div>
 
 ### Grey colours
-gainsboro
-lightgray
-silver
-darkgray
-gray
-dimgray
-lightslategray
-slategray
-darkslategray
-black
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+gainsboro<br>
+lightgray<br>
+silver<br>
+darkgray<br>
+gray<br>
+dimgray<br>
+lightslategray<br>
+slategray<br>
+darkslategray<br>
+black<br>
+</div>
+<div>
 ![A strip of squares. On square each for the different grey colours.](images/grey.png)
+</div>
+</div>
 
 ### Brown colours
-cornsilk
-blanchedalmond
-bisque
-navajowhite
-wheat
-burlywood
-tan
-rosybrown
-sandybrown
-goldenrod
-peru
-chocolate
-saddlebrown
-sienna
-brown
-maroon
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+cornsilk<br>
+blanchedalmond<br>
+bisque<br>
+navajowhite<br>
+wheat<br>
+burlywood<br>
+tan<br>
+rosybrown<br>
+sandybrown<br>
+goldenrod<br>
+peru<br>
+chocolate<br>
+saddlebrown<br>
+sienna<br>
+brown<br>
+maroon<br>
+</div>
+<div>
 ![A strip of squares. On square each for the different brown colours.](images/brown.png)
+</div>
+</div>
