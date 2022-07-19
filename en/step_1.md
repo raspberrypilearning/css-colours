@@ -3,6 +3,9 @@
 You can use these colour names
 
 ### Red colours
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 lightsalmon
 salmon
 darksalmon
@@ -12,7 +15,11 @@ crimson
 firebrick
 red
 darkred
+</div>
+<div>
 ![A strip of squares. On square each for the different red colours.](images/red.png)
+</div>
+</div>
 
 ### Orange colours
 coral
